@@ -150,7 +150,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>학습 기록 애플리케이션</h1>
+        <h1>AWS 학습 기록 애플리케이션</h1>
         <h3>오늘 학습한 내용을 기록해보세요.</h3>
 
         <div className="input-section">

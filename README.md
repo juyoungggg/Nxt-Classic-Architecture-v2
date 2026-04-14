@@ -1,4 +1,4 @@
-# project_name
+# AWS 학습 기록 애플리케이션
 ##### 2026-1 AWS 클라우드 컴퓨팅 과제
 
 ## 📚 프로젝트 개요
@@ -10,12 +10,6 @@
 
 ```
 Nxt-Classic-Architecture-v2/
-├── 1.Tutorial/              # 기초 튜토리얼
-│   ├── 1.SimpleServer/      # 간단한 서버 구현
-│   ├── 2.html/             # 정적 웹페이지
-│   └── 3.Resume/           # React 기반 이력서 앱
-├── 2.RandomTextApp/        # 3티어 랜덤 명언 앱
-├── 3.AiNoteApp/           # 3티어 AI 노트 앱
 └── 4.lambda/              # 서버리스 아키텍처
 ```
 
