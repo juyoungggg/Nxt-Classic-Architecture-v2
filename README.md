@@ -1,4 +1,5 @@
 # AWS 학습 기록 애플리케이션
+[사이트 접속 링크](http://kmucloud-12-s3.s3-website-us-east-1.amazonaws.com/)
 ##### 2026-1 AWS 클라우드 컴퓨팅 과제
 
 ## 📚 프로젝트 개요
