@@ -145,3 +145,8 @@ build/
 
 # Lock files
 package-lock.json
+
+# ign other directories
+/1.Tutorial/
+/2.RandomTextApp/
+/3.AiNoteApp/
